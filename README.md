@@ -1,4 +1,4 @@
-# Cannon Shell Simluation
+# Cannon Shell Simulation
 
 ![Results for cannon shell sample simulation](shell.png)
 
